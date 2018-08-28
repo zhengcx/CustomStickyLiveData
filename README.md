@@ -1,0 +1,2 @@
+# CustomStickyLiveData
+一个可以控制是否需要粘性的LiveData，具备LiveData优点的基础上解决LiveData自带粘性的问题
